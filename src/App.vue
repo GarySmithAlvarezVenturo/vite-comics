@@ -31,4 +31,5 @@ export default {
 @use "./assets/styles/generals.scss" as *;
 
 
+
 </style>
