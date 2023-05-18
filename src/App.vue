@@ -30,6 +30,4 @@ export default {
 <style lang="scss">
 @use "./assets/styles/generals.scss" as *;
 
-
-
 </style>
