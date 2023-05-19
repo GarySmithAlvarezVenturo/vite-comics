@@ -115,6 +115,8 @@ export default {
 
 main {
     background-color: rgb(48, 48, 48);
+    display: flex;
+    justify-content: center;
 
     .container {
         max-width: 1200px;

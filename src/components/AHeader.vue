@@ -4,7 +4,7 @@
   <header>
     <nav>
       <img src="../assets/vue-dc-comics-1/img/dc-logo.png" alt="" />
-      <ul class="text">
+      <ul>
         <li>CHARACTERS</li>
         <li>COMICS</li>
         <li>MOVIES</li>
